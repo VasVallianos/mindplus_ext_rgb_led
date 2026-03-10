@@ -1,3 +1,4 @@
 {
-    "rgbStrip.setrgbStrip|block": "Άναψε το RGB Led στο pin [PORT] με χρώμα R: [R], G: [G], B: [B] και φωτεινότητα [BRIGHTNESS]"
+    "rgbStrip.setrgbStrip|block": "Όρισε RGB Strip με [LEDS] led(s) στο pin [PORT]"
+	"rgbStrip.ledOfStrip|block": "Άναψε το [LED] RGB Led στο pin [PORT] με χρώμα R: [R], G: [G], B: [B] και φωτεινότητα [BRIGHTNESS]"
 }
