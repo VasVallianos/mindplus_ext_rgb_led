@@ -1,0 +1,3 @@
+{
+    "rgbStrip.setrgbStrip|block": "Άναψε το RGB Led στο pin [PORT] με χρώμα R: [R], G: [G], B: [B] και φωτεινότητα [BRIGHTNESS]"
+}
